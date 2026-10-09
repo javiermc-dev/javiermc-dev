@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Javier Martín Cordero! / Hi, I'm Javier Martín Cordero!
 
+Estudiante apasionado de **DAW (Desarrollo de Aplicaciones Web)** 💻, enfocado en aprender y construir soluciones web modernas. Siempre explorando nuevas tecnologías y mejorando mis habilidades de programación día a día.
+
+---
+
+### 🚀 Sobre mí / About Me
+- 🌱 Actualmente estoy cursando **DAW** (Desarrollo de Aplicaciones Web).
+- 💡 Me apasiona el desarrollo full-stack y la creación de interfaces de usuario limpias y funcionales.
+- 📈 Siempre aprendiendo nuevas tecnologías y frameworks que iré sumando a mi stack.
+
+---
+
+### 🛠️ Tecnologías y Herramientas / Technologies & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,github,vscode" />
+</p>
+
+* **Lenguajes principales:** Java, JavaScript, HTML5, CSS3.
+* **Control de versiones:** Git, GitHub.
+* **Próximamente / Learning:** ¡Más tecnologías y frameworks que se irán sumando a medida que avance mi formación!
+
+---
 <!--
-**javiermc-dev/javiermc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Estadísticas de GitHub / GitHub Stats
 
-Here are some ideas to get you started:
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 📫 ¿Cómo contactarme? / How to reach me?
+
+* 🌐 **LinkedIn:** [Tu Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
+* ✉️ **Email:** tu.correo@example.com
+
 -->
